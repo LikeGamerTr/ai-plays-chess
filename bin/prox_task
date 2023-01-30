@@ -1,0 +1,5 @@
+#!/home/sermarsh/Documents/programming/apc/ai-plays-chess/bin/python3
+from prox.prox_task import main
+
+if __name__ == '__main__':
+    main()

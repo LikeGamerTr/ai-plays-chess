@@ -1,0 +1,7 @@
+Coordinates for the first 6 moves
+1200 580
+1800 910
+
+coordinates for the move 7 and after.
+1200 880
+1800 910
